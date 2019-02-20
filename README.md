@@ -1,2 +1,2 @@
 # Shape-Calculator
-Makes the most common calculations for the selected shape
+This is my first little program I have made in my C# class
